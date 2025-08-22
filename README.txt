@@ -24,8 +24,8 @@ Installation-
 MinLang-Compiler/
 │
 ├── Source Files
-│   ├── flex.l                    # Lexical analyzer specification
-│   ├── parser.y                  # Parser grammar rules
+│   ├── flex.l                   # Lexical analyzer specification
+│   ├── parser.y                 # Parser grammar rules
 │   └── minlang.exe              # Compiled executable
 │
 ├── Generated Files (auto-created during build)
@@ -64,3 +64,4 @@ The compiler provides detailed output including:
 4.Symbol table display
 5.Compilation statistics
 6.Error warnings
+
