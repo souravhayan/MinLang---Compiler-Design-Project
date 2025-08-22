@@ -1,0 +1,5 @@
+bison -d parser.y
+flex flex.l
+gcc -o minlang.exe parser.tab.c lex.yy.c
+
+minlang.exe math_test.ml

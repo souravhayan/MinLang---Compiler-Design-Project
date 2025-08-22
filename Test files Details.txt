@@ -1,0 +1,78 @@
+File Names and Features:
+1. math_test.ml
+✅ Variable declarations (int a, b, c, result)
+
+✅ All arithmetic operations (+, -, *, /)
+
+✅ Operator precedence (a + b * c)
+
+✅ Parentheses grouping ((a + b) / c)
+
+✅ Complex expressions
+
+✅ Multiple assignments
+
+2. array_test.ml
+✅ Array declarations (int numbers, scores)
+
+✅ Array element assignment (numbers = 10)
+
+✅ Array element access (print(numbers))
+
+✅ Multiple arrays with different sizes
+
+✅ Array arithmetic operations
+
+✅ Variable index access (numbers[index])
+
+3. condition_test.ml
+✅ All comparison operators (>, <, ==, !=, >=, <=)
+
+✅ If statements
+
+✅ If-else statements
+
+✅ Multiple conditional checks
+
+✅ Boolean evaluation
+
+✅ Nested conditions
+
+4. loop_test.ml
+✅ While loops
+
+✅ For loops
+
+✅ Loop counters and conditions
+
+✅ Nested loops
+
+✅ Loop calculations (sum, product)
+
+✅ Different loop patterns
+
+5. error_test.ml
+✅ Unused variable detection
+
+✅ Variable usage tracking
+
+✅ Semantic analysis
+
+✅ Warning generation
+
+✅ Symbol table management
+
+✅ Error handling demonstration
+
+6. complete_test.ml
+✅ All features combined
+
+✅ Real-world scenario (student grades)
+
+✅ Complex business logic
+
+✅ Practical application
+
+✅ Multiple data structures
+
+✅ Comprehensive feature demonstration
